@@ -1,0 +1,24 @@
+.chicken{
+	background-color:pink;
+}
+
+.beef{
+	background-color:red;
+}
+
+.sushi{
+	background-color:yellow;
+}
+
+.white{
+	color:white !important;
+}
+
+body{
+	margin-top:60px;
+}
+
+.cont{
+	background-color:lightgray;
+	margin-bottom:60px;
+}
